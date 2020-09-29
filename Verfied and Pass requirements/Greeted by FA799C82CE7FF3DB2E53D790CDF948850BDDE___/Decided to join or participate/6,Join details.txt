@@ -1,0 +1,26 @@
+Financial contributor,Donate a tradeable object to us~
+
+Tools contributor,Help us Create tools~
+
+Brain-Storming Contributor,Monitor our decision,help us,guide us or just simply join the conversation.^^
+
+Sept2020,Common Entry point:
+Email to these address with a email you want our system potentially bound to,note currently it's maybe be linked in github,have some relation to microsoft.
+Torbox,redw5origincfr5htgg@torbox3uiot6wchz.onion
+zohomail,tgdforigin@zohomail.com
+
+In the mail have this format.
+Unique identifying id,<F,T,B>
+
+Details,chat etc.
+
+An example___
+
+resrdtrtsrht654swersomethinggeneratedbycomputer,<T>
+
+Hey,i created some tools that can run on some eh device can help filter something.no external server used all local.
+Privacy should be ok.You can use it for free,it is under GNU GPL v2.
+I put it at heywebsite.havegoodprivacypolicyones
+
+If you do not use it then, tell me why~~ps,reference to a song.ahaah
+_____
