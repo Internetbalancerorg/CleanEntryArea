@@ -6,8 +6,8 @@ Brain-Storming Contributor,Monitor our decision,help us,guide us or just simply 
 
 Sept2020,Common Entry point:
 Email to these address with a email you want our system potentially bound to,note currently it's maybe be linked in github,have some relation to microsoft.
-Torbox,redw5origincfr5htgg@torbox3uiot6wchz.onion
-zohomail,tgdforigin@zohomail.com
+Torbox,internetbalancerorg@torbox3uiot6wchz.onion
+zohomail,Messiahorigin@zohomail.com
 
 In the mail have this format.
 Unique identifying id,<F,T,B>
