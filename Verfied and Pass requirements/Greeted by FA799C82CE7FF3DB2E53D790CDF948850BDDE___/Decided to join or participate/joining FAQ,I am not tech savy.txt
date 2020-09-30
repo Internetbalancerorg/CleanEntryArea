@@ -4,7 +4,7 @@ However,you also gotta put in some effort to setup something.
 1)Know what is hashing,In short it is used to create a good unique id.
 It is also one of essence in digital security and privacy.
 
-2)Know how to know the difference between online identity and physical identity.
+2)Know what is the difference between online identity and physical identity.
 all harm comes from binding physical body to the digital entity.
 Insult i suppose is ok with you but a real life physical death threat I can assume is a no for you.
 So,know this well.
